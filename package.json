@@ -1,0 +1,17 @@
+{
+  "name": "rest-api",
+  "description": "```\r npm i express\r ```",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.18.2",
+    "zod": "3.22.4"
+  }
+}
